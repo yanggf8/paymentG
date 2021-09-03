@@ -8,9 +8,25 @@
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "express": "~4.16.1",
+    "express": "^4.16.4",
     "http-errors": "~1.6.3",
+    "lowdb": "^2.1.0",
     "morgan": "~1.9.1",
-    "pug": "^3.0.2"
-  }
+    "motion-ui": "^2.0.3",
+    "pug": "^3.0.2",
+    "uuid": "^8.3.2"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanggf8/paymentG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanggf8/paymentG/issues"
+  },
+  "homepage": "https://github.com/yanggf8/paymentG#readme",
+  "description": ""
 }
